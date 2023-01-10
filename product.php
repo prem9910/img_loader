@@ -20,11 +20,11 @@
  
                 <nav>
                     <ul>
-                        <a href="index.php" class="menu"><li >Home</li></a>
-                        <a href="product.php" class="menu"><li class="active">Product</li></a>
+                        <a href="index.html" class="menu"><li >Home</li></a>
+                        <a href="product.html" class="menu"><li class="active">Product</li></a>
                         <a href="#" class="menu"><li>Work</li></a>
                         <a href="#" class="menu"><li>About</li></a>
-                        <a href="contact.php" class="menu"><li>Contact</li></a>
+                        <a href="contact.html" class="menu"><li>Contact</li></a>
                         
                     </ul>
                 </nav>
