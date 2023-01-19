@@ -1,0 +1,13 @@
+*{
+	margin: 0px;
+	background: #fff;
+}
+
+.editor{
+	position: absolute;
+	width: 100%;
+	border: 1px solid black;
+}
+.editor, .html-code, .css-code, .js-code{
+	width: ;
+}
